@@ -20,6 +20,7 @@ One line, all the way through. Software that understands, decides, and can move 
 
 | | What it is | Open |
 | --- | --- | --- |
+| **[Musculanity](https://github.com/boss974829/musculanity)** | A course in becoming a man, from Logical Malik's talks | [Open the course](https://boss974829.github.io/musculanity/) |
 | **[Bhoomi](https://github.com/boss974829/boomi)** | 3D map of India | [Open the map](https://boss974829.github.io/bhoomi/) |
 | **[Slipway](https://github.com/boss974829/slipway)** | Four harbor games on one pier | [Play](https://htmlpreview.github.io/?https://github.com/boss974829/slipway/blob/main/docs/index.html) |
 | **[Meshline](https://github.com/boss974829/meshline)** | Harbor strategy. Nine relays | [Play](https://htmlpreview.github.io/?https://github.com/boss974829/meshline/blob/main/docs/index.html) |
