@@ -38,7 +38,7 @@ The sequence I care about:
 | | What it is | Open |
 | --- | --- | --- |
 | **[Slipway](https://github.com/boss974829/slipway)** | Four harbor games on one pier: Meshline, Kiln, Eel, and Slip | [Play](https://htmlpreview.github.io/?https://github.com/boss974829/slipway/blob/main/docs/index.html) |
-| **[Bhoomi](https://github.com/boss974829/boomi)** | Full-HD 3D topographic map of India | [Source](https://github.com/boss974829/boomi) |
+| **[Bhoomi](https://github.com/boss974829/boomi)** | Full-HD 3D topographic map of India | [Open map](https://boss974829.github.io/bhoomi/) |
 | **[Marginalia](https://github.com/boss974829/marginalia)** | A reader that speaks the PDF and answers from the pages | [Source](https://github.com/boss974829/marginalia) |
 | **[Adrahari](https://github.com/boss974829/adrahari)** | Independent desktop lab. Lock, note, calculate, picture. No telemetry | [Store](https://raw.githack.com/boss974829/adrahari/main/index.html) |
 | **[Meshline](https://github.com/boss974829/meshline)** | Harbor-city strategy. Razor or Keel across nine relays | [Source](https://github.com/boss974829/meshline) |
