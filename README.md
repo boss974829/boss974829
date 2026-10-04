@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/198376803?v=4" width="240" alt="Aditya Agrahari" />
+  <img src="https://boss974829.github.io/avatar.gif" width="280" alt="Aditya Agrahari, animated" />
 </p>
 
 <h1 align="center">Aditya Agrahari</h1>
