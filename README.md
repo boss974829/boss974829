@@ -1,46 +1,54 @@
-- # 👋 Hi, I'm a Software & AI Enthusiast
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/198376803?v=4" width="240" alt="Aditya Agrahari" />
+</p>
 
-I'm passionate about building technology that is not just functional, but **intelligent, automated, scalable, and capable of solving real-world problems**.
+<h1 align="center">Aditya Agrahari</h1>
 
-### 💻 What I Build
-- Full-Stack web applications and software systems
-- AI/ML and Deep Learning projects
-- LLM-powered applications and AI agents
-- AI automation and intelligent workflows
-- Computer Vision and intelligent systems
-- Robotics and autonomous systems
-- Developer tools and productivity solutions
+<p align="center">
+  <strong>THE RULE</strong> · India<br>
+  Software & AI
+</p>
 
-### 🤖 My Vision
+<p align="center">
+  Systems that understand, decide, and eventually move.<br>
+  <strong>Code → AI → Automation → Hardware → Robotics</strong>
+</p>
 
-My long-term vision is to work at the intersection of **Software Engineering, Artificial Intelligence, Automation, and Robotics**.
+---
 
-I want to build systems where software can **understand, reason, learn, make decisions, automate tasks, and interact with the physical world**.
+### Vision
 
-I'm particularly interested in the evolution from traditional software → AI-powered software → autonomous AI agents → intelligent robotic systems.
+I build technology that is not only functional, but intelligent, automated, scalable, and able to meet a real problem.
 
-### 🚀 What I'm Learning
+The long aim sits where software engineering, artificial intelligence, automation, and robotics meet. I want systems that understand, reason, learn, make decisions, automate work, and interact with the physical world.
 
-I'm continuously expanding my knowledge in:
+The sequence I care about:
 
-**Software Engineering • Full-Stack Development • Python • AI/ML • Deep Learning • LLMs • Generative AI • AI Agents • Automation • Computer Vision • Robotics • Systems Design • Cloud & APIs**
+**traditional software → AI-powered software → autonomous agents → intelligent machines**
 
-### 🧠 How I Think
+> Learn deeply. Build relentlessly. Automate intelligently. Explore what comes next.
 
-I enjoy understanding how things work from first principles and then turning that knowledge into practical projects.
+### Selected work
 
-Rather than limiting myself to one technology, I want to develop the ability to **combine different fields and create complete systems from idea to implementation**.
+| | What it is | Open |
+| --- | --- | --- |
+| **[Slipway](https://github.com/boss974829/slipway)** | Four harbor games on one pier: Meshline, Kiln, Eel, and Slip | [Play](https://htmlpreview.github.io/?https://github.com/boss974829/slipway/blob/main/docs/index.html) |
+| **[Bhoomi](https://github.com/boss974829/boomi)** | Full-HD 3D topographic map of India | [Source](https://github.com/boss974829/boomi) |
+| **[Marginalia](https://github.com/boss974829/marginalia)** | A reader that speaks the PDF and answers from the pages | [Source](https://github.com/boss974829/marginalia) |
+| **[Adrahari](https://github.com/boss974829/adrahari)** | Independent desktop lab. Lock, note, calculate, picture. No telemetry | [Store](https://raw.githack.com/boss974829/adrahari/main/index.html) |
+| **[Meshline](https://github.com/boss974829/meshline)** | Harbor-city strategy. Razor or Keel across nine relays | [Source](https://github.com/boss974829/meshline) |
+| **[Shoply](https://github.com/boss974829/PROJECT-ibm-all-here)** | Dockerized store: React, Express, Postgres | [Source](https://github.com/boss974829/PROJECT-ibm-all-here) |
 
-### 🌎 Long-Term Goal
+### How I think
 
-To become a highly capable engineer who can move seamlessly between:
+I like knowing how a thing works from first principles, then turning that into something you can run.
 
-**Code → AI → Automation → Hardware → Robotics**
+One technology is not the point. The point is a complete system, from the idea to the implementation — and the ability to move between **code, AI, automation, hardware, and robotics**.
 
-and eventually contribute to technologies that make complex tasks **smarter, faster, safer, and more autonomous**.
+### Now
 
-> **Learn deeply. Build relentlessly. Automate intelligently. Explore what comes next. 🚀**
-<!---
-boss974829/boss974829 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software engineering · Full-stack · Python · AI/ML · Deep learning · LLMs · Agents · Computer vision · Automation · Robotics · Systems design
+
+<p align="center">
+  <a href="https://github.com/boss974829"><strong>github.com/boss974829</strong></a>
+</p>
