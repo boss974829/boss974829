@@ -1,4 +1,9 @@
 <p align="center">
+  <a href="https://boss974829.github.io"><strong>Open the landing →</strong></a><br>
+  The film, the vision, and the work.
+</p>
+
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/198376803?v=4" width="240" alt="Aditya Agrahari" />
 </p>
 
@@ -50,5 +55,7 @@ One technology is not the point. The point is a complete system, from the idea t
 Software engineering · Full-stack · Python · AI/ML · Deep learning · LLMs · Agents · Computer vision · Automation · Robotics · Systems design
 
 <p align="center">
+  <a href="https://boss974829.github.io"><strong>Open the landing</strong></a>
+  ·
   <a href="https://github.com/boss974829"><strong>github.com/boss974829</strong></a>
 </p>
